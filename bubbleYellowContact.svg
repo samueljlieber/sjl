@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12.281in" height="12.273in" version="1.1" viewBox="0 0 311.93 311.74" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-93.515 -121.81)">
+  <circle cx="258.32" cy="286.42" r="147.12" fill="#ffbe00" stroke-linecap="square" stroke-width="6.873" style="paint-order:markers fill stroke"/>
+  <circle cx="243.6" cy="271.89" r="149.75" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".6598" style="paint-order:markers fill stroke"/>
+  <text x="333.45309" y="266.7627" fill="#0f0f0f" font-family="'High Tower Text'" font-size="30.241px" letter-spacing="0px" stroke-width="1.3746" text-anchor="end" word-spacing="0px" style="line-height:0" xml:space="preserve"><tspan x="333.45309" y="266.7627" dx="0" dy="0" text-align="end" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0px">samueljlieber</tspan><tspan x="333.45309" y="314.31967" text-align="end" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:0px">@gmail.com</tspan></text>
+ </g>
+</svg>
